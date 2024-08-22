@@ -1,14 +1,5 @@
 ### The Internet of People and the Helium LoRaWAN Network: A Vision for Enhanced Connectivity
 
-#### Abstract
-The Internet of People (IoP) is revolutionizing how we connect and collaborate. With the Helium LoRaWAN network, there's immense potential to enhance human interaction through technology. Helium's decentralized network allows individuals to set up hotspots, earning cryptocurrency while contributing to a vast connectivity infrastructure.
-
-As seen on [Helium Explorer](https://explorer.helium.com/), many locations have advanced IoT capabilities but remain without hotspots. This presents a unique opportunity for communities to establish connections and foster engagement. By deploying Helium hotspots in these underrepresented areas, we can enhance local communication, support health monitoring, and enable smart city solutions.
-
-The synergy of IoP and Helium can transform how communities interact, allowing for real-time resource sharing and collaboration. Moreover, this initiative can empower underserved regions, bridging the digital divide and facilitating access to vital services.
-
-In conclusion, the combination of the Internet of People and the Helium LoRaWAN network offers a pathway to stronger, more connected communities. By addressing the gaps in hotspot availability, we can unlock new possibilities for collaboration and innovation, enhancing the quality of life for many.
-
 #### Introduction
 
 The rapid evolution of technology has given rise to new paradigms that reimagine how we connect and interact. One such paradigm is the Internet of People (IoP), which emphasizes human connectivity over device connectivity. Coupled with the Helium LoRaWAN network, this concept presents a unique opportunity to bridge gaps in communication, especially in underserved areas. This article explores the potential of IoP and Helium, focusing on the benefits, challenges, and future prospects.
